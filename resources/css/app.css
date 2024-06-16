@@ -1,0 +1,11 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background: url("/onlyfan/public/image/background.gif") no-repeat center
+        center fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
